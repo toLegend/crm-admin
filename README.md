@@ -10,3 +10,6 @@ redis
 vue
 iview
 基于iview admin 开发
+演示：
+账号：admin
+密码：123456
